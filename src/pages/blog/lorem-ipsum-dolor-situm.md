@@ -1,25 +1,25 @@
 ---
 templateKey: article-page
-title: Lorem Ipsum Dolor Situm
-slug: lorem-ipsum-dolor-situm
-date: 2018-03-29T03:55:49.370Z
-cover: /img/products-grid3.jpg
-meta_title: Lorem Ipsum Dolor Situm
+title: Песнь металла
+slug: blog-post-slug
+date: 2020-05-31T03:55:49.370Z
+cover: /img/015.png
+meta_title: Что может быть романтичнее?..
 meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+  Работать с металлом, придавать ему новые формы - как можно в это не влюбиться?!.
+  Я счастливый человек - я всю жизнь занимаюсь любимым делом!
+  Вам нужна основательная прочность? Что ж - это моё любимое дело!
+  А о цене договоримся!
 tags:
-  - lorem
-  - ipsum
+  - металлоконструкции
+  - подзаказ
 ---
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-## Most Amazing Blogging Experience.
+## Что может быть романтичнее?..
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

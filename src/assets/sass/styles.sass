@@ -1,5 +1,9 @@
-$primary: #00d1b2
-$primary-invert: #ffffff
+//$primary: #00d1b2
+//$primary-invert: #ffffff
+
+$primary: #01012f
+$primary-invert: #bbdbef
+
 
 @import "~bulma"
 
@@ -9,6 +13,21 @@ body,
 #gatsby-focus-wrapper,
 #layout-wrapper
   height: 100%
+  background-color: #01012f 
+  color: #32739d
+
+footer,
+.footer,
+nav,
+.navbar-burger,
+.navbar-menu
+  background-color: #04041e !important
+  color: #32739d
+
+section
+  background-color: #01012f !important                                     
+  color: #32739d
+
 
 #layout-wrapper
   width: 100%
@@ -19,7 +38,18 @@ body,
   flex: 1
 
 nav
-  border-bottom: lightgray solid 0.1vmin
+  border-bottom: green solid 0.1vmin
+
+.hero
+  background: linear-gradient(178deg, #04041e 0%, #01012f 70%)  !important
+
+.title                 /* text in linear-gradient */
+  font-weight: normal  !important
+  font-size:   3.5rem     !important
+
+.content h1
+  font-weight: normal  !important
+  color: lightblue     !important
 
 .content .taglist
   list-style: none

@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import favicon from './assets/img/favicon.ico'
+//import './assets/css/style.css'
 
 export default class HTML extends Component {
   render () {
